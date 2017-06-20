@@ -1,5 +1,5 @@
 {
-  "name": "generate-sx-web",
+  "name": "generator-sx-web",
   "version": "1.0.0",
   "description": "随行付pc端react脚手架",
   "main": "index.js",

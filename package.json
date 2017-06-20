@@ -1,0 +1,26 @@
+{
+  "name": "generator-sxUiSys",
+  "version": "1.0.0",
+  "description": "随行付pc端react脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lzpMy/sx-ui-template.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "somnus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lzpMy/sx-ui-template/issues"
+  },
+  "homepage": "https://github.com/lzpMy/sx-ui-template",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1",
+    "yosay": "^2.0.0"
+  }
+}
